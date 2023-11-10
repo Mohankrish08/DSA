@@ -1,5 +1,10 @@
 # DSA
 
+- Git Clone this repo
+
+    ```bash
+    git clone https://github.com/Mohankrish08/DSA
+
 #### 1. Searching algorithms
 
 1. **Linear search**
