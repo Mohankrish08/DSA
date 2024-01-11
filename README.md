@@ -33,3 +33,8 @@ Space complexity : O(n)
 1. **Stack using list without size**
 
 
+#### 4. Graph
+
+The basics about the graph data structure. 
+
+
