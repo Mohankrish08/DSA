@@ -7,7 +7,7 @@
 
 `Time Complexity` - `O(N^2)`
 
-`Space Complexity` - `O(N)`
+`Space Complexity` - `O(1)`
 
 --- 
 
@@ -19,13 +19,23 @@
 
 `Time Complexity` - `O(N^2)`
 
-`Space Complexity` - `O(N)`
+`Space Complexity` - `O(1)`
 
 ## 3. Insertion Sort
 
 - Take the first item from the unsorted array. 
 - Find the correct position in the sorted array.
 - Repeart until unsorted array is empty.
+
+`Time Complexity` - `O(N^2)`
+
+`Space Complexity` - `O(1)`
+
+## 4. Bucket sort
+
+- Create bucket and distribute elements to the bucket.
+- sort the buckets.
+- Merge the buckets.
 
 `Time Complexity` - `O(N^2)`
 
