@@ -20,3 +20,13 @@
 `Time Complexity` - `O(N^2)`
 
 `Space Complexity` - `O(N)`
+
+## 3. Insertion Sort
+
+- Take the first item from the unsorted array. 
+- Find the correct position in the sorted array.
+- Repeart until unsorted array is empty.
+
+`Time Complexity` - `O(N^2)`
+
+`Space Complexity` - `O(N)`
