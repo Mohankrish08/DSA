@@ -24,6 +24,8 @@ Space complexity : O(1)
 Time complexity : O(n)
 Space complexity : O(n)
 
+2. **Selection sort**
+
 #### 3. LinkedList
 
 1. **Singly linked list**
