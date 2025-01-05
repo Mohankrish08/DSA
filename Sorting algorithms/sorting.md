@@ -42,3 +42,11 @@
 `Space Complexity` - `O(N)`
 
 ## 5. Merge sort
+
+- Used by divide and conquer methods.
+- Split the array in 2 halves, split the array until cannot be broken.
+- Merge the halves by sorting them.
+
+`Time Complexity` - `O(N log N)`
+
+`Space Complexity` - `O(N)`
